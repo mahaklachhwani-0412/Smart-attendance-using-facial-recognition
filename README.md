@@ -99,19 +99,7 @@ Follow the steps below to set up the project locally:
 ---
 
 
-## 💡 **Acknowledgments**
-
-Special thanks to the following technologies for making this project possible:
-- **OpenCV** for the image processing functions.
-- **Face Recognition** library by Adam Geitgey for its facial recognition capabilities.
-- **Dlib** for face detection and recognition.
-- **Flask/Django** for web framework and server management.
-- **SQLite/MySQL** for database integration.
-
----
-
 ## 🖥️ **Screenshots**
-Here, you can add a few screenshots or GIFs of your project in action:
 
 ![Screenshot 1](https://via.placeholder.com/600x400)
 *Admin Panel View*
