@@ -57,7 +57,7 @@ The **Smart Attendance System** automates attendance marking using **Facial Reco
 
 4. **Run the Streamlit app**:
     ```bash
-    streamlit run streamlitapp.py
+    streamlit run streamlit_app.py
     ```
 
 5. **Access the app**:
