@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+torch
+torchvision
+facenet-pytorch
+pandas
+numpy
+Pillow
+reportlab
+fpdf
+pyyaml
